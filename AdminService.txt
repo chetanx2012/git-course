@@ -1,4 +1,4 @@
 Admin can add or remove users
 Change the roles
 Manage the database
-closing the database connection for vivek
+closing the mysql database connection for vivek
