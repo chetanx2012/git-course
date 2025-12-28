@@ -1,3 +1,4 @@
 Admin can add or remove users
 Change the roles
 Manage the database
+closing the connection
